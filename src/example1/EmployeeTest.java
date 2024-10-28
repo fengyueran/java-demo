@@ -1,5 +1,8 @@
+package example1;
 import java.io.*;
  
+
+
 public class EmployeeTest {
     public static void main(String[] args) {
         // 使用构造器创建两个对象

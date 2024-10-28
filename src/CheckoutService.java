@@ -1,6 +1,6 @@
 
 
-import com.mycompany.ecommerce.checkout.PaymentProcessor;
+import example2.mycompany.ecommerce.checkout.PaymentProcessor;
 
 public class CheckoutService {
     public static void main(String[] args) {
